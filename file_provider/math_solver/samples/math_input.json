@@ -1,0 +1,18 @@
+[
+	{"function": "SUM",
+	 "value1": 5,
+	 "value2": 10
+	 },
+	{"function": "MUL",
+	 "value1": 3,
+	 "value2": 4
+	 },
+	{"function": "SUB",
+	 "value1": 9,
+	 "value2": 12
+	 },
+	{"function": "DIV",
+	 "value1": 10,
+	 "value2": 5
+	 }
+]
